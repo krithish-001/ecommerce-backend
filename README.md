@@ -34,3 +34,7 @@ This is a full-stack e-commerce web application built using React and Spring Boo
 ```bash
 npm install
 npm start
+
+
+output
+<img width="1899" height="947" alt="Screenshot 2026-04-02 160716" src="https://github.com/user-attachments/assets/1a7b8577-f737-4038-a0f2-cdb1cfd817bb" />
